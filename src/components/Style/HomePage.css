@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    /* background-color: rgb(41, 45, 45); */
+}
+
+
+/* 
+.homePage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+.homePage img{
+    width: 320px;
+    padding-bottom:50px ;
+}
+
+.homePage h1{
+    color: red;
+    font-size: 50px;
+
+}
+
+.homePage  h2{
+    font-size: 32px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.homePage  input{
+    border: 1px solid rgb(208, 202, 202);
+    border-radius: 5px 0px 0px 5px;
+    width: 350px;
+    height: 50px;
+    font-size: 16px;
+    color: white;
+}
+
+.homePage  button{
+    height: 54px;
+    width: 100px;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background: #D93F3F;
+
+}*/
