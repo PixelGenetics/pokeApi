@@ -7,7 +7,6 @@ import pokebola from '../../assets/pokebola-cerrada.png';
 import pokebola_sound from '../../assets/Vídeo sin título ‐ Hecho con Clipchamp.mp4'
 import pokebola_abierta from '../../assets/pokebola-abierta.png'
 import '../Style/HomePage.css'
-import PokeCard from "../../components2/pokedexPage/PokeCard";
 import useFetch from "../../hooks/useFetch";
 import Footer from "../../components2/Details/Footer";
 
